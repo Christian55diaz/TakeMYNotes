@@ -17,11 +17,11 @@
   
 ## Description
   
-My project here is a readme generator built in node js, using my terminal i had to install many packages to allow my generator to function properly
+My project is a online note-pad, a place where you can write notes, save said notes, and if you have way too many notes delete them. This project was by far most difficult one I have worked on trying to get it all neat and organized.
   
 ## Author
   
-Name: REadME Generator
+Name: TakeMYNotes
   
 Contact email: chrisdiaz5237@gmail.com
   
@@ -34,7 +34,8 @@ to install the project check my repo you can either git pull or clone my repo or
   
 ## Usage
   
-First you have to install on the nessecary node plug- ins and enter in your terminal (node index) and several prompts will appear after you answer one after the other
+-install all nessecary node plug- ins and enter in your terminal
+-npm i(nmp install)
   
 ## Credits
   
