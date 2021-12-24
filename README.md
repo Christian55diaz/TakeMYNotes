@@ -25,7 +25,9 @@ Name: TakeMYNotes
   
 Contact email: chrisdiaz5237@gmail.com
   
-GitHub: [christian55diaz](https://github.com/christian55diaz) 
+GitHub: [christian55diaz](https://github.com/christian55diaz)
+
+Deployment: https://write-notes-here.herokuapp.com/
 
   
 ## Installation
